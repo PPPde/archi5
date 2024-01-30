@@ -1,0 +1,4 @@
+var wagon;
+var train;
+assemble (wagon=4);
+
