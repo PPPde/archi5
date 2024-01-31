@@ -1,4 +1,7 @@
 var wagon;
 var train;
-assemble (wagon=4);
+function assemble ();
+  if wagon > 0
+  wagon - 1;
+  train +1;
 
