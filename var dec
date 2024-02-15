@@ -4,4 +4,4 @@ function assemble ();
   if wagon > 0
   wagon - 1;
   train +1;
-
+var lenth is compelt if
