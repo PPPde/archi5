@@ -5,4 +5,4 @@ function assemble ();
   wagon - 1;
   train +1;
 wagon count -1
-var lenth is compelt if
+var lenth is compelt if train is full
